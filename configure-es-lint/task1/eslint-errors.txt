@@ -1,4 +1,5 @@
-no-dupe-keys
-no-duplicate-case
-block-spacing
-no-empty
+use let or const instead
+Expected '===' and instead saw '=='
+not defined
+operator '++' used
+Return statement should not contain assignment
